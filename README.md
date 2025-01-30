@@ -45,6 +45,22 @@ https://github.com/user-attachments/assets/cf89efb5-5f68-4949-a085-f41c1ef26c94
 ## 🔧 Installation
 The code is tested on Python 3.10.0, CUDA 12.1 and H100.
 ```
+sudo apt-get update && sudo apt-get install git-lfs ffmpeg cbm
+
+# Clone this repository
+git clone https://github.com/svjack/FastVideo
+
+# Go into the repository
+cd FastVideo
+
+### Install dependencies ###
+conda create --name FastVideo python=3.10
+conda activate FastVideo
+
+# Install ipykernel and add the environment to Jupyter
+pip install ipykernel
+python -m ipykernel install --user --name FastVideo --display-name "FastVideo"
+
 ./env_setup.sh fastvideo
 ```
 
