@@ -74,6 +74,41 @@ python scripts/huggingface/download_hf.py --repo_id=FastVideo/FastHunyuan-diffus
 # CLI inference
 bash scripts/inference/inference_hunyuan_hf_quantization.sh
 ```
+
+
+
+https://github.com/user-attachments/assets/fccfd720-8449-4a0b-a7af-6ae205ed22d1
+
+
+
+https://github.com/user-attachments/assets/a6ff5db8-c944-4369-9467-8ca869720597
+
+
+
+https://github.com/user-attachments/assets/41c4b397-14fa-4376-ae3a-7fbac78d52e5
+
+
+
+https://github.com/user-attachments/assets/dcd2d889-c06c-407b-9921-b8eb84d0dffa
+
+
+
+https://github.com/user-attachments/assets/c6d57b50-f701-40b9-809d-826ea034a2d7
+
+
+
+https://github.com/user-attachments/assets/d236ce1b-dc24-4e51-a138-9dcac00d061c
+
+
+
+https://github.com/user-attachments/assets/abe6f55b-31d0-432c-b31e-de2537c155f5
+
+
+
+https://github.com/user-attachments/assets/86cf158c-0103-4180-a385-9ba29ff153bf
+
+
+
 For more information about the VRAM requirements for BitsAndBytes quantization, please refer to the table below (timing measured on an H100 GPU):
 
 
